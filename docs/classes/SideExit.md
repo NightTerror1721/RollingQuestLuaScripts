@@ -619,3 +619,13 @@ Casts the current element to a specific type if possible. Throws an error if the
 
 - **Static:** No
 - **Returns:** `Decoration`
+
+## Custom Events
+
+Specific events that `SideExit` can trigger and that are captured with the `OnCustomEvent` hook.
+
+### `open`
+
+___
+
+### `close`

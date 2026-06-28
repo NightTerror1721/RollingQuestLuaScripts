@@ -580,3 +580,25 @@ Casts the current element to a specific type if possible. Throws an error if the
 
 - **Static:** No
 - **Returns:** `Decoration`
+
+## Custom Events
+
+Specific events that `SideSensorSpikes` can trigger and that are captured with the `OnCustomEvent` hook.
+
+### `activate`
+
+___
+
+### `deactivate`
+
+___
+
+### `catchBall`
+
+- `ball: Ball`
+
+___
+
+### `catchEnemy`
+
+- `enemy: Enemy`
